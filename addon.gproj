@@ -1,0 +1,8 @@
+GameProject {
+ ID "BadlandRaidersEquipment"
+ GUID "5F3B488EF5B16F08"
+ TITLE "Badland Raiders Equipment"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
